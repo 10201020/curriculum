@@ -39,3 +39,14 @@
     height: 100px;
     background-color: rgb(253, 2, 2);
 }
+@media screen and (max-width: 767px) {
+    .header{
+        width: 300px;
+    }
+    .left{
+        width: 100px;
+    }
+    .right__left--a .right__left--b{
+        width: 125px;
+    }
+}

@@ -1,2 +1,2 @@
-# curiculum
+# curriculum
  
